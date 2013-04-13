@@ -1,7 +1,7 @@
 {
   "name": "generator-sails",
-  "version": "0.1.7",
-  "description": "Default Yeoman generator for scaffolding out a front-end web app",
+  "version": "0.0.0",
+  "description": "",
   "keywords": [
     "yeoman-generator",
     "web",
@@ -10,13 +10,13 @@
     "h5bp",
     "modernizr"
   ],
-  "homepage": "https://github.com/yeoman/generator-webapp",
-  "bugs": "https://github.com/yeoman/generator-webapp/issues",
-  "author": "Chrome Developer Relations",
+  "homepage": "https://github.com/colinwren/generator-sails",
+  "bugs": "https://github.com/colinwren/generator-sails/issues",
+  "author": "",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yeoman/generator-webapp.git"
+    "url": "git://github.com/colinwren/generator-sails.git"
   },
   "scripts": {
     "test": "mocha --reporter spec"
