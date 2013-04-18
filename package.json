@@ -1,13 +1,14 @@
 {
   "name": "generator-sails",
   "version": "0.0.0",
-  "description": "",
+  "description": "A Yeoman sails generator largley copied from generator-webapp",
   "keywords": [
     "yeoman-generator",
     "web",
     "app",
     "front-end",
     "h5bp",
+    "sails",
     "modernizr"
   ],
   "homepage": "https://github.com/colinwren/generator-sails",
@@ -36,7 +37,7 @@
   },
   "licenses": [
     {
-      "type": "BSD"
+      "type": "MIT"
     }
   ]
 }
