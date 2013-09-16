@@ -1,4 +1,5 @@
 # Sails yeoman generator prototype
+# I no longer use or maintain this project. Let me know if you are interested in maintaining this project. 
 
 
 This a prototype of sails yeoman integration, this repo is mostly copied from
